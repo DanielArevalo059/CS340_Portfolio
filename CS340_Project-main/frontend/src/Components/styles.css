@@ -1,0 +1,12 @@
+.navbar-container {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10%;
+}
+
+.link-spacing {
+    padding: 0px 10px;
+    font-size: 24px;
+}
