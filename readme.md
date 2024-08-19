@@ -12,4 +12,4 @@ Reference: https://vitejs.dev/guide/
 * Execute `node app.js` to start the backend.
 Reference: https://expressjs.com/en/starter/hello-world.html
 
-### Please check out the ProjectGroup27_Step5_FINAL.pdf for a full breakdown of this project including database outline, ERD, Schema,and UI screenshots
+### Please check out the ProjectGroup27_Step5_FINAL.pdf for a full breakdown of this project including database outline, ERD, Schema, and UI screenshots
